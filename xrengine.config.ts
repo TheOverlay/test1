@@ -1,1 +1,11 @@
-aW1wb3J0IHR5cGUgeyBQcm9qZWN0Q29uZmlnSW50ZXJmYWNlIH0gZnJvbSAnQHhyZW5naW5lL3Byb2plY3RzL1Byb2plY3RDb25maWdJbnRlcmZhY2UnCgpjb25zdCBjb25maWc6IFByb2plY3RDb25maWdJbnRlcmZhY2UgPSB7CiAgb25FdmVudDogdW5kZWZpbmVkLAogIHRodW1ibmFpbDogJy9zdGF0aWMveHJlbmdpbmVfdGh1bWJuYWlsLmpwZycsCiAgcm91dGVzOiB7fSwKICBzZXJ2aWNlczogdW5kZWZpbmVkLAogIGRhdGFiYXNlU2VlZDogdW5kZWZpbmVkCn0KCmV4cG9ydCBkZWZhdWx0IGNvbmZpZwo=
+import type { ProjectConfigInterface } from '@xrengine/projects/ProjectConfigInterface'
+
+const config: ProjectConfigInterface = {
+  onEvent: undefined,
+  thumbnail: '/static/xrengine_thumbnail.jpg',
+  routes: {},
+  services: undefined,
+  databaseSeed: undefined
+}
+
+export default config

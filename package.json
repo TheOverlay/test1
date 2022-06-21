@@ -1,16 +1,1 @@
-{
-  "name": "test6",
-  "version": "0.0.0",
-  "description": "",
-  "main": "",
-  "scripts": {
-    "test": "mocha --config .mocharc.js"
-  },
-  "peerDependencies": {},
-  "dependencies": {},
-  "devDependencies": {
-    "mocha": "9.2.2",
-    "trace-unhandled": "2.0.1"
-  },
-  "license": "ISC"
-}
+ewogICJuYW1lIjogInRlc3Q2IiwKICAidmVyc2lvbiI6ICIwLjAuMCIsCiAgImRlc2NyaXB0aW9uIjogIiIsCiAgIm1haW4iOiAiIiwKICAic2NyaXB0cyI6IHsKICAgICJ0ZXN0IjogIm1vY2hhIC0tY29uZmlnIC5tb2NoYXJjLmpzIgogIH0sCiAgInBlZXJEZXBlbmRlbmNpZXMiOiB7fSwKICAiZGVwZW5kZW5jaWVzIjoge30sCiAgImRldkRlcGVuZGVuY2llcyI6IHsKICAgICJtb2NoYSI6ICI5LjIuMiIsCiAgICAidHJhY2UtdW5oYW5kbGVkIjogIjIuMC4xIgogIH0sCiAgImxpY2Vuc2UiOiAiSVNDIgp9
